@@ -1,0 +1,27 @@
+.tc{
+  background-color:#EAF9F5;
+  height: 200px;
+  width:200px;
+  padding: 20px;
+  border: solid 10px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.mc
+{
+  height: 200px;
+  width:200px;
+  background-color: red;
+  border: solid 20px;
+  margin-left: 260px;
+}
+.bc
+{
+  height:200px;
+  width:200px;
+  background-color: blue;
+  border: solid 10px;
+  margin-left:500px;
+
+
+}

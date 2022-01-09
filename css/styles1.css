@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 1.3em;
+}
+.tc
+{
+    background-color:#EAF9F5;
+    position:relative;
+    padding-top: 120px;
+}
+.mc
+{
+  height: 200px;
+  width:200px;
+  background-color: red;
+}
+.bc
+{
+  height:200px;
+  width:200px;
+  background-color: blue;
+}
+.top
+{
+  position:absolute;
+  right: 300px;
+  top:50px;
+
+}
+.bottom
+{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+.chat{
+  text-decoration: underline;
+  color: green;
+}
+.btn{
+  text-decoration: underline;
+  color: Red;
+  font-family:cursive; 
+}
